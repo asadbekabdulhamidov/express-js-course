@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24",
+    "price": 850
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro M3",
+    "price": 1500
+  },
+  {
+    "id": 4,
+    "title": "Redmi Note 13",
+    "price": 250
+  }
+]
